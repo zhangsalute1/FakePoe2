@@ -1,5 +1,5 @@
 <template>
-  <div>aside组件</div>
+  <div>aside</div>
 </template>
 <script setup></script>
 <style lang="scss" scoped></style>
